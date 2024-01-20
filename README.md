@@ -1,6 +1,6 @@
 # SkyChart-360-Panorama
 
-<img src="Sky trace.png" alt="Result image of the script showing the trajectory of the ISS in the sky with an horizon with building on top" width="300" height="auto">
+<img src="Sky trace.png" alt="Result image of the script showing the trajectory of the ISS in the sky with an horizon with building on top" width="800" height="auto">
 
 ## Introduction
 
