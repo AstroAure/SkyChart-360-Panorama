@@ -1,6 +1,6 @@
 # SkyChart-360-Panorama
 
-<img src="Sky trace.png" alt="Result image of the script showing the trajectory of the ISS in the sky with an horizon with building on top" width="800" height="auto">
+<p style="text-align: center"><img src="Sky trace.png" alt="Result image of the script showing the trajectory of the ISS in the sky with an horizon with building on top" width="800" height="auto">
 
 ## Introduction
 
@@ -8,8 +8,7 @@ This script takes a sky chart and a 360° panorama of an horizon and merges the 
 
 I created this code to see the ISS path of a pass in my horizon and plan my observations. Thanks to it, I can precisely see where the ISS will appear and what path it will follow in the sky.
 
-<img src="Panorama.png" alt="Initial horizon panorama" width="300" height="auto">
-<img src="HeavensAbove.png" alt="Initial sky chart from HeavensAbove" width="300" height="auto">
+<p style="text-align: center"><img src="Panorama.png" alt="Initial horizon panorama" width="auto" height="400"> <p style="text-align: center"><img src="HeavensAbove.png" alt="Initial sky chart from HeavensAbove" width="auto" height="400">
 
 The images should follow a specific format :
 * Horizon panorama : 
