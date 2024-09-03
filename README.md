@@ -15,7 +15,7 @@ I created this code to see the ISS path of a pass in my horizon and plan my obse
 
 The images should follow a specific format :
 * Horizon panorama : 
-    - 360° azimuth on the width of the image, from -180° (left) to +180° (right), with North in the center (although this can be changed with the `az_range` argument in the `unfold_hemisphere` function)
+    - 360° azimuth on the width of the image, from -180° (left) to +180° (right), with North in the center (although this can be changed with the `left_az` argument in the `unfold_hemisphere` function)
     - 180° altitude on the height of the image, from -90° (bottom) to +90° (top), with horizon in the center
     - It can be created with the [360 Photo Sphere Camera](https://play.google.com/store/apps/details?id=com.foxpoi.panorama&hl=en_US) Android app
     - The sky must have been removed and made transparent (png image with transparence), with GIMP or Photoshop (or any other software)
